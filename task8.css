@@ -1,0 +1,100 @@
+h1{
+    color:black;
+    text-shadow:2px 2px violet;
+}
+.ear1{
+    a{
+        color: blueviolet;
+    }
+    border-style: solid;
+    border-width: 5px;
+    display:inline-block;
+    background-color: aqua;
+    padding: 5px;
+    margin: 50px;
+}
+
+.ear2{
+    a{
+        color:red;
+    }
+    border-style: solid;
+    border-width: 5px;
+    display:inline-block;
+    background-color:blueviolet;
+    padding: 5px;
+    margin: 50px;
+    
+}
+.ear3{
+    a{
+        color: darkblue;
+    }
+    border-style: solid;
+    border-width: 5px;
+    display:inline-block;
+    background-color:pink;
+    padding: 5px;
+    margin: 50px;
+    
+}
+.ear4{
+    a{
+        color: black;
+    }
+    border-style: solid;
+    border-width: 5px;
+    display:inline-block;
+    background-color:darkslateblue;
+    padding: 5px;
+    margin: 50px;
+    
+}
+.ear5{
+    a{
+        color:royalblue;
+    }
+    border-style: solid;
+    border-width: 5px;
+    display:inline-block;
+    background-color:darkgray;
+    padding: 5px;
+    margin: 50px;
+    
+}
+.ear6{
+    a{
+        color:crimson;
+    }
+    border-style: solid;
+    border-width: 5px;
+    display:inline-block;
+    background-color:coral;
+    padding: 5px;
+    margin: 50px;
+    
+}
+.ear7{
+    a{
+        color:darkgreen;
+    }
+    border-style: solid;
+    border-width: 5px;
+    display:inline-block;
+    background-color:mediumslateblue;
+    padding: 5px;
+    margin: 50px;
+    
+}
+.ear8{
+    a{
+        color:darkblue;
+    }
+    border-style: solid;
+    border-width: 5px;
+    display:inline-block;
+    background-color:aquamarine;
+    padding: 5px;
+    margin: 50px;
+    
+}
